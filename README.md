@@ -17,6 +17,7 @@ CHANGE BETWEEN OBJECTS
 SWITCH BETWEEN OBJECTS: SPACE BAR KEY
 
 
+
 MOVE OBJECT
 
 MOVE LEFT: LEFT ARROW KEY
@@ -28,20 +29,34 @@ MOVE UP: UP ARROW KEY
 MOVE DOWN: DOWN ARROW KEY
 
 TURN OBJECT
+
 ROTATE DOWN: S KEY
+
 ROTATE UP: W KEY
+
 ROTATE RIGHT: D KEY
+
 ROTATE LEFT: A KEY
+
 ROTATE CLOCKWISE: E KEY
+
 ROTATE COUNTER CLOCKWISE: Q KEY
 
+
 CHANGE SIZE OF OBJECT
+
 SHRINK OUTER SIDE: R KEY
+
 GROW OUTER SIDE: F KEY
+
 SHRINK HEIGHT: T KEY
+
 GROW HEIGHT: G KEY
+
 SHRINK INNER SIDE: Y KEY
+
 GROW INNER SIDE: H KEY
+
 ----------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------
